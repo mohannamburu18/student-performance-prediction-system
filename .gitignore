@@ -1,9 +1,0 @@
-venv/
-__pycache__/
-*.pyc
-node_modules/
-.env
-dist/
-build/
-*.sqlite3
-*.db
