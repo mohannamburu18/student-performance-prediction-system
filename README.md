@@ -15,11 +15,10 @@ The system integrates **Machine Learning, FastAPI backend APIs, and a modern Rea
 
 # 🎥 Project Demo
 
-Replace `VIDEO_ID` with your YouTube video ID.
+Watch the working demo of **EduPredict — Student Performance Prediction System**
 
-```md
-[![Watch Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID)
-```
+https://github.com/mohannamburu18/student-performance-prediction-system/blob/main/demo/Demo%20video.mp4
+
 
 ---
 
@@ -27,15 +26,16 @@ Replace `VIDEO_ID` with your YouTube video ID.
 
 ### 🔐 Login Page
 
-![Login](screenshots/login.png)
+![Login](screenshots/login%20page.png)
+
 
 ### 📊 Student Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/student%20dashboard.png)
 
 ### 📈 Prediction Result
 
-![Prediction](screenshots/prediction.png)
+![Prediction](screenshots/prediction%20summary.png)
 
 ---
 
